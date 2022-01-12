@@ -3,7 +3,7 @@
 - Estou estudando e quero me aprofundar em .NET, C#
 - Tenho interesse em HTML5 & CSS3, Angular, SLQ Server, Docker
 - Hoje eu trabalho como estágiário de suporte na SoftcomTecnologia
-- Tenho experiência em Suporte de T.I com montsgem e manutenção de computadores e notebooks e ainda atuo nessa área como freelancer;
+- Tenho experiência em Suporte de T.I com montagem e manutenção de computadores e notebooks e ainda atuo nessa área como freelancer;
 ##
 </div>
   <a href="https://https://github.com/SrFerreiraDev">
