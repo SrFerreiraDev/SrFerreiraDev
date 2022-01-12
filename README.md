@@ -1,8 +1,9 @@
 - Olá! Eu sou o Edinaldo Ferreira
-- Estou cursando o 2º período de Análises e Desenvolvimento de Sistemas
+- Estou cursando o 3º período de Análises e Desenvolvimento de Sistemas
 - Estou estudando e quero me aprofundar em .NET, C#
 - Tenho interesse em HTML5 & CSS3, Angular, SLQ Server, Docker
-- Hoje eu trabalho como estágiário de suporte
+- Hoje eu trabalho como estágiário de suporte na SoftcomTecnologia
+- Tenho experiência em Suporte de T.I com montsgem e manutenção de computadores e notebooks e ainda atuo nessa área como freelancer;
 ##
 </div>
   <a href="https://https://github.com/SrFerreiraDev">
