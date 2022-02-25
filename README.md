@@ -1,8 +1,9 @@
-- Olá! Eu sou o Edinaldo Ferreira
-- Estou cursando o 3º período de Análises e Desenvolvimento de Sistemas
-- Estou estudando e quero me aprofundar em .NET, C#
-- Tenho interesse em HTML5 & CSS3, Angular, SLQ Server, Docker
-- Hoje eu trabalho como estágiário de suporte na SoftcomTecnologia
+- Olá! Eu sou o Edinaldo Ferreira;
+- Estou cursando o 3º período de Análises e Desenvolvimento de Sistemas;
+- Estou estudando e quero me aprofundar em .NET, C#;
+- Tenho interesse em HTML5 & CSS3, SLQ Server, MySQL, Docker, Angular;
+- Meu Objetivo a curto prazo é atuar como Dev Back-end, a médio prazo é ser FullStack, a longo prazo quero desenvolver minha versão de Linux O.S.;
+- Hoje eu trabalho como estágiário de suporte na SoftcomTecnologia;
 - Tenho experiência em Suporte de T.I com montagem e manutenção de computadores e notebooks e ainda atuo nessa área como freelancer;
 ##
 </div>
