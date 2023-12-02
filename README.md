@@ -1,10 +1,12 @@
 - Olá! Eu sou o Edinaldo Ferreira;
-- Estou cursando o 3º período de Análises e Desenvolvimento de Sistemas;
+- Estou cursando o 1º período de Teconologia em Redes de Computadores;
+- Fiz o 1º e 2º pperíodo de Análise e Desenvilvimento de Sistemas;
 - Estou estudando e quero me aprofundar em .NET, C#;
 - Tenho interesse em HTML5 & CSS3 & JavaScript, SQL Server, MySQL, Docker; Azure; 
-- Meu Objetivo a curto prazo é atuar como Dev Back-end, a médio prazo é ser FullStack, a longo prazo quero desenvolver minha versão de Linux O.S.;
+- Meu Objetivo a curto prazo é atuar na àrea de Redes e Ciber Segurança;
 - Experiência com suporte Service Desk N1 na SoftcomTecnologia;
 - Tenho experiência em Suporte de T.I com montagem e manutenção de computadores e notebooks e ainda atuo nessa área como freelancer;
+- Experiência como técnico e analista de T.I com um park T.I com cerca de 250 a 300 computadores, entre presenciais e remotos, cuidando da manutenção da rede, computadores e serviços técnicos;
 ##
 </div>
   <a href="https://https://github.com/SrFerreiraDev">
