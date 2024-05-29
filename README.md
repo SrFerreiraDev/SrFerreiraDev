@@ -1,8 +1,8 @@
 - Olá! Eu sou o Edinaldo Ferreira;
-- Estou cursando o 1º período de Teconologia em Redes de Computadores;
-- Fiz o 1º e 2º pperíodo de Análise e Desenvilvimento de Sistemas;
+- Estou cursando o 3º período de Tecnologia em Redes de Computadores;
+- Cursei o 1º e 2º períodos em Análise e Desenvolvimento de Sistemas;
 - Estou estudando e quero me aprofundar em .NET, C#;
-- Tenho interesse em HTML5 & CSS3 & JavaScript, SQL Server, MySQL, Docker; Azure; 
+- Tenho interesse em HTML5 & CSS3, SQL Server, MySQL, Docker, Azure, WordPress;
 - Meu Objetivo a curto prazo é atuar na àrea de Redes e Ciber Segurança;
 - Experiência com suporte Service Desk N1 na SoftcomTecnologia;
 - Tenho experiência em Suporte de T.I com montagem e manutenção de computadores e notebooks e ainda atuo nessa área como freelancer;
