@@ -1,12 +1,13 @@
 - Olá! Eu sou o Edinaldo Ferreira;
-- Estou cursando o 3º período de Tecnologia em Redes de Computadores;
+- Estou cursando o 4º período de Tecnologia em Redes de Computadores;
 - Cursei o 1º e 2º períodos em Análise e Desenvolvimento de Sistemas;
-- Estou estudando e quero me aprofundar em .NET, C#;
+- Estou estudando e quero me aprofundar em Pyton, PHP;
 - Tenho interesse em HTML5 & CSS3, SQL Server, MySQL, Docker, Azure, WordPress;
-- Meu Objetivo a curto prazo é atuar na área de Redes e Ciber Segurança;
+- Meu Objetivo a médio prazo, no qual já estou trabalhando é desenvolver aplicações na área de Redes e Ciber Segurança;
 - Experiência com suporte Service Desk N1 na SoftcomTecnologia;
 - Tenho experiência em Suporte de T.I com montagem e manutenção de computadores e notebooks e ainda atuo nessa área como freelancer;
 - Experiência como técnico e analista de T.I com um park T.I com cerca de 250 a 300 computadores, entre presenciais e remotos, cuidando da manutenção da rede, computadores e serviços técnicos;
+- Atualmente sou Analista de Infraestrutura de Redes e TI no Porto de Cabedelo.
 ##
 </div>
   <a href="https://https://github.com/SrFerreiraDev">
@@ -33,6 +34,6 @@
   
 </div>
 <a href="https://www.linkedin.com/in/ferreiratech776" target="_blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "target =" _ blank "> </a> 
-<a href = "mailto:srferreiradev@gmail.com"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank "> </a>
+<a href = "mailto:ferreiratec25@gmail.com"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank "> </a>
 
 </div>
