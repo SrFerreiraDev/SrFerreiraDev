@@ -8,11 +8,12 @@
 - Tenho experiência em Suporte de T.I com montagem e manutenção de computadores e notebooks e ainda atuo nessa área como freelancer;
 - Experiência como técnico e analista de T.I com um park T.I com cerca de 250 a 300 computadores, entre presenciais e remotos, cuidando da manutenção da rede, computadores e serviços técnicos;
 - Atualmente sou Analista de Infraestrutura de Redes e TI no Porto de Cabedelo.
+- Pesto suporte e cunsultoria em TI para Usuários e Empresas.
 ##
 </div>
   <a href="https://https://github.com/SrFerreiraDev">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=srferreiradev&show_icons=false&theme=dark&include_all_commits=true&count_private=true" />
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=srferreiradev&layout=compact&langs_count=7&theme=dark" />
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=srferreiradevshow_icons=falsetheme=darkinclude_all_commits=truecount_private=true" />
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=srferreiradevlayout=compactlangs_count=7theme=dark" />
 </div>
 
 ##
@@ -20,12 +21,10 @@
 - O que estou estudando:
 
 <div style="display: inline_block">
-  <img align="center" alt=".NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
+  
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
   <img align="center" alt=".NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  <img align="center" alt=".NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="SQL Server" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
