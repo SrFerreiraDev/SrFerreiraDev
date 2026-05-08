@@ -9,12 +9,6 @@
 - Experiência como técnico e analista de T.I com um park T.I com cerca de 250 a 300 computadores, entre presenciais e remotos, cuidando da manutenção da rede, computadores e serviços técnicos;
 - Atualmente sou Analista de Infraestrutura de Redes e TI no Porto de Cabedelo.
 - Pesto suporte e cunsultoria em TI para Usuários e Empresas.
-##
-</div>
-  <a href="https://github.com/SrFerreiraDev/SrFerreiraDev">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?srferreiradev=anuraghazra&show_icons=true&theme=radical" />
-  <img height = "180em" src = "![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?srferreiradev=anuraghazra&show_icons=true&theme=transparent)" />
-</div>
 
 ##
 
