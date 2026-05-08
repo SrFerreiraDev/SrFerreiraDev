@@ -11,9 +11,9 @@
 - Pesto suporte e cunsultoria em TI para Usuários e Empresas.
 ##
 </div>
-  <a href="https://https://github.com/SrFerreiraDev">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=srferreiradevshow_icons=falsetheme=darkinclude_all_commits=truecount_private=true" />
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=srferreiradevlayout=compactlangs_count=7theme=dark" />
+  <a href="https://github.com/SrFerreiraDev/SrFerreiraDev">
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?srferreiradev=anuraghazra&show_icons=true&theme=radical" />
+  <img height = "180em" src = "![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?srferreiradev=anuraghazra&show_icons=true&theme=transparent)" />
 </div>
 
 ##
