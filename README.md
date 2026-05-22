@@ -1,7 +1,7 @@
 - Olá! Eu sou o Edinaldo Ferreira;
 - Estou cursando o 4º período de Tecnologia em Redes de Computadores;
 - Cursei o 1º e 2º períodos em Análise e Desenvolvimento de Sistemas;
-- Estou estudando e quero me aprofundar em Python, PHP;
+- Estou estudando e quero me aprofundar em Python;
 - Tenho interesse em C#, .NET, HTML5 & CSS3, SQL Server, MySQL, Docker, Azure, WordPress;
 - Meu Objetivo a médio prazo, no qual já estou trabalhando é desenvolver aplicações na área de Redes e Ciber Segurança;
 - Experiência com suporte Service Desk N1 na SoftcomTecnologia;
@@ -17,7 +17,6 @@
 <div style="display: inline_block">
   
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
-  <img align="center" alt=".NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="SQL Server" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
